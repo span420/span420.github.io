@@ -1,0 +1,35 @@
+---
+title: "Ensayo corto #1"
+subtitle: "Pedagogía"
+output: 
+  html_document: 
+    theme: lumen
+---
+
+- Fecha de entrega: jueves 28 de septiembre antes de las 11:30 pm
+- Método de entrega: mediante dropbox (sakai)
+- Formateo:  
+    - archivo .docx
+    - márgenes de 1 pulgada
+    - fuente 12pt, doble espacio
+    - nombre del archivo: apellido_nombre_ensayo1.docx (ej. 
+    casillas_joseph_ensayo1.docx)
+
+En un ensayo de 2-3 páginas... 
+
+- Reflexiona sobre tu experiencia con tu L2. Da información específica acerca 
+de tu perfil lingüístico (i.e. ¿cómo/cuándo/por qué aprendiste tu L2? ¿qué tipo 
+de aprendiz eres?)
+- Compara tu experiencia lingüística con la de un hablante de herencia^[Si te 
+consideras hablante de herencia, compara tu experiencia con la de un aprendiz 
+de L2 (i.e. un aprendiz tardío).]. 
+¿En qué aspectos son diferentes? ¿Qué tienen en común? Sé específico.
+- Considera y habla detalladamente de los métodos de enseñanza que usaron tus 
+maestros. ¿Son los mismos que hemos visto en las lecturas y las presentaciones 
+de la clase. ¿Cómo difieren de los métodos de un maestro de lengua heredada?
+- ¿Por qué son importantes las clases de lengua heredada? ¿Qué relación tienen 
+con el español en EE.UU. y el futuro del español en EE.UU.?
+
+**OJO**: cualquier duda acerca del ensayo debe consultarse en 
+[slack](https://ru-span420.slack.com/messages/C6X2J7RT6/) en el canal de 
+pedagogía.

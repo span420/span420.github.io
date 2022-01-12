@@ -1,0 +1,35 @@
+---
+title: "Ensayo corto #2"
+subtitle: "Uso"
+output: html_document
+---
+
+- Fecha de entrega: jueves 19 de octubre antes de las 11:30 pm
+- Método de entrega: mediante dropbox (sakai)
+- Formateo:  
+    - archivo .Rmd
+    - nombre del archivo: apellido_nombre_ensayo2.Rmd  
+    (ej. casillas_joseph_ensayo2.Rmd)
+
+Escribe un ensayo de 2-3 páginas... 
+
+- Considera la variación lingüística en el español de EE.UU. Algunos 
+investigadores mantienen que el contacto con el inglés resulta en la pérdida 
+o simplificación de algunos aspectos del español. Da un ejemplo concreto de 
+simplificación/pérdida. Incluye todo el detalle que puedas (¿quién, cómo cuándo, 
+por qué, etc.?). ¿A qué atribuyen este cambio?
+- Otra posibilidad es que mucha de la variación que se ve en las 
+comunidades bilingües se explica mediante procesos internos de la lengua que 
+pueden verse acelerados debido al contacto. Aporta un ejemplo concreto. 
+Incluye todo el detalle que puedas (¿quién, cómo cuándo, por qué, etc.?). 
+- ¿Cuál de las dos explicaciones te convence más? ¿Se contradicen? 
+
+**PISTA**: [Aquí](http://www.jvcasillas.com/420_01_f2017/docs/assignment//02_use/template.zip) 
+hay una plantilla en .Rmd que puedes usar para escribir tu ensayo.
+
+**OJO**: Cualquier duda acerca del ensayo debe consultarse en 
+[slack](https://ru-span420.slack.com/messages/C6X2JHQSG/) en el canal de 
+uso. 
+
+
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPAN420: Current Issues in SLA on Current Issues in SLA</title>
+    <link>/</link>
+    <description>Recent content in SPAN420: Current Issues in SLA on Current Issues in SLA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/syllabus/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>warning  clear  Note: Subject to change depending on the needs of the class.      Date Lesson Reading Slides HW    Part 1: Pedagogy      Thu, 09/07 Lingüística, lingüística aplicada y la ASL.      Mon, 09/11 El campo de investigación de la ASL.      Thu, 09/14 El campo de investigación de la ASL (cont.</description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>/policies/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/policies/</guid>
+      <description>Evaluation: Your final grade will be comprised of the following:
+        Preparation, participation, misc. hw 15%   Essays 40%   - Area essay 1 (20%)    - Area essay 2 (20%)    Presentation 15%   Final project 30%   - written (20%)    - presentation (10%)     Participation and homework Students are expected to attend class prepared and participate actively.</description>
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>/modules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/modules/</guid>
+      <description>Pedagogy     Use    timeline Analysis     Processes     Topics: L2 pedagogy. Heritage langauge pedagogy.  Skills:  Guest lecturer: Sara Beaudrie, PhD, Thursday, 09/21     Topics: Sociolinguistic approaches to SLA. Bilingualism. Spanish in the U.S.  Skills: RMarkdown  Guest lecturer: Ryan M. Bessett, PhD, Thursday, 10/12     Topics: Phonetics and phonology of bilingualism.</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tools/</guid>
+      <description>Slack     R     Praat     PsychoPy2    Slack is a communication platform we&#39;ll use to discuss specific topics outside of class. It also serves as a resource for students to ask questions and exchange information relevant to the course. You will receive an email with an invitation link to join the course Slack. For personal matters (only) you can email the professor.</description>
+    </item>
+    
+  </channel>
+</rss>

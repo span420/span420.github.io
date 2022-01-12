@@ -1,0 +1,19 @@
+---
+title: Lectura
+output: html_document
+---
+
+### Módulo 2 - Uso
+
+|     |  Día   | Fecha |                                    Tema                                    |             Lectura              |
+| :-- | :----- | :---: | :------------------------------------------------------------------------- | :------------------------------- |
+| 06  | Lunes  | 09/25 | Metodología 1: R, RMarkdown y la investigación reproducible.               | [Rmd tutorial][1]                |
+| 07  | Jueves | 09/28 | Lengua y sociedad.                                                         | LA: cap. 8, p. 180-193           |
+| 08  | Lunes  | 10/02 | Lengua y sociedad.                                                         | LA: cap. 8, p. 194-198, 202-204. |
+| 09  | Jueves | 10/05 | Los pronombres. Pres 2a.                                                   | LA: cap. 3, p. 53-59.            |
+| 10  | Lunes  | 10/09 | Expresión de pronombre sujeto en el español de EE.UU. Pres 2b.             | ART: Flores-Ferrán (2004)        |
+| 11  | Jueves | 10/12 | Sociolingüística: contacto y variación. Presentación del Dr. Ryan Bessett. |                                  |
+
+Las lecturas están disponibles [aquí](https://sakai.rutgers.edu/portal/site/87159f73-adf3-4968-bcc3-329c4e157f1c/tool/b7c4bde1-4e30-4cce-bb78-eb1f5b10f1dd?panel=Main)
+
+[1]: http://www.jvcasillas.com/420_01_f2017/docs/tools/rmd_tutorial.html

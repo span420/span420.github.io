@@ -1,0 +1,176 @@
+---
+title: 'La investigación reproducible'
+subtitle: 'Tutorial breve de R, RStudio y RMarkdown'
+date: "Última actualización: `r Sys.Date()`"
+output: 
+  html_document: 
+    theme: simplex
+    toc: yes
+    toc_float: yes
+---
+
+(el código fuente de este documento está disponible [aquí](http://www.jvcasillas.com/420_01_f2017/docs/tools/rmd_tutorial.Rmd))
+
+# RMarkdown
+
+## ¿Qué?
+
+RMarkdown es un tipo de lenguaje que sirve para generar distintos tipos de 
+documentos que son comunes en el mundo académico (.docx, .pdf, .html). Lo 
+más probable es que hayas usado un programa como Microsoft Word para generar 
+documentos para tus clases. Este tipo de programa se clasifica WYSIWYG (what 
+you see is what you get), lo cual significa que el usuario puede ver 
+exactamente cómo va a quedar el documento a la vez que trabaja en él. En 
+cambio, si usamos un lenguaje para generar el documento---en este caso el 
+lenguaje es RMarkdown---tenemos que darle al programa instrucciones 
+específicas acerca de cómo queremos formatear distintos parámetros (i.e., 
+el tamaño de la fuente, negrita, cursiva, etc.). A primera vista usar un 
+lenguaje como RMarkdown parece introducir una complicación innecesaria, pues 
+teclear directamente en Word es bastante fácil. Pero, como veremos abajo, un 
+lenguaje como RMarkdown nos puede facilitar muchas tareas comunes que tenemos 
+que hacer al llevar a cabo una investigación académica. Por lo tanto, podemos 
+considerar que RMarkdown es una herramienta para la investigación. 
+
+## ¿Cómo?
+
+RMarkdown tiene su propia sintaxis. A saber...
+
+### Texto
+
+Al teclear de manera normal (es decir, sin añadir nada), producimos texto normal.
+Podemos terminar una línea y comenzar un párrafo nuevo en el documento añadiendo 
+dos espacios al final.  
+
+Usamos el asterisco (\*) para *escribir en cursiva*. Usamos dos asteriscos (\*\*) 
+para **escribir en negrita**. También podemos cambiar el texto de otras maneras, 
+por ejemplo con un^superscript^ o ~~tachando las palabras~~. Incluso podemos 
+incluir [enlaces](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) 
+(pincha ese enlace para aprender más acerca de la sintaxis). 
+
+### Listas
+
+Podemos producir: 
+
+- unordered lists
+- usando el guion (\-)
+
+y también...
+
+1. ordered lists
+2. usando números (1. , 2. , etc.)
+
+### Tablas
+
+También es posible crear tablas...
+
+| Table Header | Second Header |
+| :----------- | :------------ |
+| Table Cell   | Cell 2        |
+| Cell 3       | Cell 4        |
+
+
+## ¿Por qué?
+
+Hemos visto un poco acerca de cómo funciona RMarkdown. Ahora vamos a ver algunas 
+de las razones por las que es útil para la investigación. 
+
+### Funcionalidad
+
+RMardown se escribe en un archivo .Rmd, que es un simple archivo de texto. Escribir 
+en un archivo de texto aporta varias ventajas.
+
+- Un documento de texto no pesa
+- No necesitamos software caro (lo podemos abrir y editar con cualquier 
+editor de texto)
+- Funciona en cualquier plataforma
+
+### Output variado
+
+El archivo .Rmd puede convertirse en un documento word, un pdf, o una página 
+web. Sólo tenemos que cambiar ```output: "html_document"``` a "pdf_document" 
+o "word_document". 
+
+### La investigación reproducible
+
+Normalmente nuestros análisis estadísticos y los documentos que usamos 
+para presentarlos se mantienen separados. Por ejemplo, hacemos un ANOVA 
+en SPSS y luego reportamos los resultados en nuestro paper (que luego 
+se manda a una revista para que se publique). Esta separación es el 
+enemigo. Es contraproducente si la meta es hacer investigaciones reproducibles. 
+Mediante RMarkdown podemos incluir nuestros análisis (scripts de R) en 
+el mismo documento. 
+
+
+# R
+
+## Comments
+
+```{r}
+#############################
+# Always comment your code! #
+#############################
+
+# This is a comment
+2 + 2
+```
+
+
+
+
+## Matemáticas básicas
+
+```{r}
+#####################
+# R as a calculator #
+#####################
+
+2 + 2
+
+4^2
+
+(12 * 15) / 2
+```
+
+
+
+## Asignación de variables
+
+```{r}
+# R uses objects
+
+# Store the value '2' to the object 'x'
+x <- 2
+print(x)
+
+# Perform an operation on 'x'
+x + 4
+```
+
+## Instalar paquetes
+
+```{r, eval=FALSE}
+# install a package
+install.packages("tidyverse")
+```
+
+
+
+## Analizar datos
+
+```{r, message = FALSE}
+library(tidyverse)
+glimpse(cars)
+
+my_analysis <- lm(speed ~ dist, data = cars)
+
+summary(my_analysis)
+```
+
+## Make a plot
+
+```{r, message=FALSE}
+ggplot(cars, aes(x = dist, y = speed)) + 
+  geom_point() + 
+  geom_smooth(method = 'lm')
+```
+

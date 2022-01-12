@@ -1,0 +1,31 @@
+---
+title: Lectura
+output: html_document
+---
+
+### Módulo 4 - Procesos
+
+|     | Día | Fecha |                             Tema                            |        Lectura        |
+| :-- | :-- | :---: | :---------------------------------------------------------- | :-------------------- |
+| 19  | th  | 11/09 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2 |                       |
+| 20  | mn  | 11/13 | Gramática universal                                         |                       |
+| 21  | th  | 11/16 | El lenguaje y el pensamiento. Relativismo lingüístico.      | LSA [ART][1]          |
+| 22  | mn  | 11/20 | El bilingüismo y el cerebro. Presentación 4a.               | NYT [ART][2]          |
+| 23  | th  | 11/23 | Día de acción de gracias - No hay clase                     |                       |
+| 24  | mn  | 11/27 | El bilingüismo y el cerebro (cont.). Presentación 4b.       | Mokadam et al. (2017) |
+| 25  | th  | 11/30 | Presentación de investigador invitado TBA                   |                       |
+
+Las lecturas están disponibles [aquí](https://sakai.rutgers.edu/portal/site/87159f73-adf3-4968-bcc3-329c4e157f1c/tool/b7c4bde1-4e30-4cce-bb78-eb1f5b10f1dd?panel=Main)
+
+[1]: https://www.linguisticsociety.org/resource/language-and-thought
+[2]: http://www.nytimes.com/2012/03/18/opinion/sunday/the-benefits-of-bilingualism.html
+
+<!-- https://youtu.be/evQsOFQju08 -->
+<!-- https://vimeo.com/120808489 -->
+
+<!-- The Relationship of Bilingualism Compared to Monolingualism to the Risk of Cognitive Decline or Dementia: A Systematic Review and Meta-Analysis -->
+
+<!-- 
+https://www.slideshare.net/mounirnour378/ug-sla # ug sla slideshow
+http://apling621s15-gounari.wikispaces.umb.edu/Universal+Grammar+and+SLA # ART from pyscholing persp.
+-->
