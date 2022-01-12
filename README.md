@@ -1,11 +1,11 @@
 
-# Webpage for Data Science for Linguists (SPAN 589)
+# Webpage for Current Issues in SLA (SPAN 420)
 
-Last update: 2021-02-19  
-Previous versions: Spring 2018
+Last update: 2022-01-12  
+Previous versions: Fall 2017
 
-Source code for course website for SPAN 589 at Rutgers University.
-Course website is hosted at <https://ds4ling.github.io>
+Source code for course website for SPAN 420 at Rutgers University.
+Course website is hosted at <https://span420.github.io>
 
 # Attribution
 
@@ -16,6 +16,6 @@ Course website is hosted at <https://ds4ling.github.io>
 
 # Notes for building the website:
 
--   Colors: RU pantone - \#D21034
+-   Colors: RU pantone - #D21034
     -   To change, search & replace in
         `themes/material/static/css/material-kit.css`
