@@ -1,7 +1,7 @@
 lessons:
   - title: "Part 1: Pedagogy"
     reading: "01_pedagogy/index.html"
-    slides: "01_pedagogy/index.html"
+    #slides: "01_pedagogy/index.html"
   
   - title: "Lingüística, lingüística aplicada y la ASL."
     date: "Thu, 09/07"
@@ -11,19 +11,19 @@ lessons:
   
   - title: "El campo de investigación de la ASL (cont.). Métodos de enseñanza. Presentación 1a."
     date: "Thu, 09/14"
-    slides: "/presentations/1a_pedagogy.pptx"
+    #slides: "/presentations/1a_pedagogy.pptx"
   
   - title: "El campo de investigación de la ASL (cont.). Español en EE.UU. Presentación 1b."
     date: "Mon, 09/18"
-    slides: "/presentations/1b_pedagogy.pdf"
+    #slides: "/presentations/1b_pedagogy.pdf"
   
   - title: "Lenguas heredadas en EE.UU. Presentación de Dra. Sara Beaudrie."
     date: "Thu, 09/21"
-    assignment: "01_pedagogy/index.html"
+    #assignment: "01_pedagogy/index.html"
   
   - title: "Part 2: Use"
     reading: "02_use/index.html"
-    slides: "02_use/index.html"
+    #slides: "02_use/index.html"
   
   - title: "Metodología: R, RMarkdown y la investigación reproducible"
     date: "Mon, 09/25"
@@ -36,20 +36,20 @@ lessons:
   
   - title: "Los pronombres. Presentación 2a."
     date: "Thu, 10/05"
-    slides: "/presentations/2a_use.pdf"
+    #slides: "/presentations/2a_use.pdf"
   
   - title: "Expresión de pronombre sujeto en el español de EE.UU. Presentación 2b."
     date: "Mon, 10/09"
-    slides: "presentations/2b_use.pdf"
+    #slides: "presentations/2b_use.pdf"
   
   - title: "Sociolingüística: contacto y variación. Presentación del Dr. Ryan Bessett."
     date: "Thu, 10/12"
-    slides: "presentations/2c_use.pdf"
-    assignment: "02_use/index.html"
+    #slides: "presentations/2c_use.pdf"
+    #assignment: "02_use/index.html"
   
   - title: "Part 3: Analysis"
     reading: "03_analysis/index.html"
-    slides: "03_analysis/index.html"
+    #slides: "03_analysis/index.html"
   
   - title: "Metodología: Praat"
     date: "Mon, 10/16"
@@ -65,19 +65,19 @@ lessons:
   
   - title: "Adquisición secuencial - producción. Presentación 3a."
     date: "Mon, 10/30"
-    slides: "presentations/3a_analysis.pdf"
+    #slides: "presentations/3a_analysis.pdf"
   
   - title: "Adquisición secuencial - percepción. Presentación 3b."
     date: "Thu, 11/02"
-    slides: "presentations/3b_analysis.pdf"
+    #slides: "presentations/3b_analysis.pdf"
   
   - title: "Presentación de Dr. Miquel Simonet."
     date: "Mon, 11/06"
-    assignment: "03_analysis/index.html"
+    #assignment: "03_analysis/index.html"
   
   - title: "Part 4: Processes"
     reading: "04_processes/index.html"
-    slides: "04_processes/index.html"
+    #slides: "04_processes/index.html"
   
   - title: "Metodología: Experimentos psicolingüísticos con PsychoPy2"
     date: "Thu, 11/09"
@@ -90,18 +90,18 @@ lessons:
   
   - title: "El bilingüismo y el cerebro. Presentación 4a."
     date: "Mon, 11/20"
-    slides: "presentations/4a_processes.pdf"
+    #slides: "presentations/4a_processes.pdf"
   
   - title: "Día de acción de gracias - No hay clase"
     date: "Thu, 11/23"
   
   - title: "El bilingüismo y el cerebro. Presentación 4b."
     date: "Mon, 11/27"
-    slides: "presentations/4b_processes.pdf"
+    #slides: "presentations/4b_processes.pdf"
   
   - title: "Presentación de Dra. Nuria Sagarra."
     date: "Thu, 11/30"
-    assignment: "04_processes/index.html"
+    #assignment: "04_processes/index.html"
   
   - title: "Asuntos residuales"
     date: "Mon, 12/04"
