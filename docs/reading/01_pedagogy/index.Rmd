@@ -5,12 +5,12 @@ output: html_document
 
 ### Módulo 1 - Pedagogía
 
-|     |  Día   | Fecha |                          Tema                          |                        Lectura                        |
-| :-- | :----- | :---: | :----------------------------------------------------- | :---------------------------------------------------- |
-| 01  | Jueves | 09/07 | Lingüística, lingüística aplicada y ASL.               | LA: cap. 1, p. 1-3.                                   |
-| 02  | Lunes  | 09/11 | El campo de investigación de la ASL.                   | LA: cap. 2, p. 25-38.                                 |
-| 03  | Jueves | 09/14 | El campo de investigación de la ASL (cont.). Pres 1a.  | LA: cap. 2, p. 38-41. cap. 1, p. 3-19.                |
-| 04  | Lunes  | 09/18 | El campo de investigación de la ASL (cont.).  Pres 1b. | ART: Potowski y Carreira (2010)                       |
-| 05  | Jueves | 09/21 | Presentación de Dra. Sara Beaudrie                     | LA: cap. 2, p. 42-47, cap. 8, p. 198-202. ART: Valdés (2001) |
+| Sesión | Día       | Fecha | Tema                                                   | Lectura                                                      |
+| :----- | :-------- | :---- | :----------------------------------------------------- | :----------------------------------------------------------- |
+| 01     | Miércoles | 01/19 | Lingüística, lingüística aplicada y ASL.               | LA: cap. 1, p. 1-3.                                          |
+| 02     | Lunes     | 01/24 | El campo de investigación de la ASL.                   | LA: cap. 2, p. 25-38.                                        |
+| 03     | Miércoles | 01/26 | El campo de investigación de la ASL (cont.). Pres. 1a. | LA: cap. 2, p. 38-41. cap. 1, p. 3-19.                       |
+| 04     | Lunes     | 01/31 | El campo de investigación de la ASL (cont.). Pres. 1b. | ART: Potowski y Carreira (2010)                              |
+| 05     | Miércoles | 02/02 | Presentación de investigador invitado (1) TBA          | LA: cap. 2, p. 42-47, cap. 8, p. 198-202. ART: Valdés (2001) |
 
-Las lecturas están disponibles [aquí](https://sakai.rutgers.edu/portal/site/87159f73-adf3-4968-bcc3-329c4e157f1c/tool/b7c4bde1-4e30-4cce-bb78-eb1f5b10f1dd?panel=Main)
+Las lecturas están disponibles [aquí](https://rutgers.instructure.com/courses/162767/modules)

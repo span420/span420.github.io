@@ -11,7 +11,7 @@ markup: "mmark"
  <span></span> | <span></span>            |
 ---------------|--------------------------|
 When           | Mon & Wed 17:10 - 19:10  |
-Where          | Murray XXX, Online       |
+Where          | Murray 208, Online       |
 
 ## Teaching
 

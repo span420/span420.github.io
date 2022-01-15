@@ -5,19 +5,19 @@ output: html_document
 
 ### Módulo 3 - Análisis
 
-|     |  Día   | Fecha |                          Tema                         |         Lectura         |
-| :-- | :----- | :---: | :---------------------------------------------------- | :---------------------- |
-| 12  | Lunes  | 10/16 | Metodología 2: Praat.                                 |                         |
-| 13  | Jueves | 10/19 | Adquisición secuencial                                | PB: cap. 7, 145-155     |
-| 14  | Lunes  | 10/23 | Adquisición secuencial (cont.)                        | PB: cap. 7, 155-164     |
-| 15  | Jueves | 10/26 | HLS - clase cancelada                                 |                         |
-| 16  | Lunes  | 10/30 | Adquisición secuencial - producción. Presentación 3a. | Knightly et al. (2003)  |
-| 17  | Jueves | 11/02 | Adquisición secuencial - percepción. Presentación 3b. | Pallier et al. (1997)   |
-| 18  | Lunes  | 11/06 | Presentación de investigador invitado TBA             | [Blog][1] - Grosjean    |
+| Sesión |  Día      | Fecha |                          Tema                         |         Lectura                      |
+| :----- | :-------- | :---: | :---------------------------------------------------- | :----------------------------------- |
+| 12     | Lunes     | 02/28 | Metodología 2: Praat                                  |                                      |
+| 13     | Miércoles | 03/02 | Adquisición secuencial.                               | PB: cap. 7, 145-155                  |
+| 14     | Lunes     | 03/07 | Adquisición secuencial.                               | PB: cap. 7, 155-164.                 |
+| 15     | Miércoles | 03/09 | Adquisición secuencial - producción. Pres 3a.         | Art: Knightly et al. (2003).         |
+|        |           |       |                                                       |                                      |
+|        |           | 03/12 | **Spring break**                                      |                                      |
+|        |           |       |                                                       |                                      |
+| 16     | Lunes     | 03/21 | Adquisición secuencial - percepción. Pres 3b.         | Art: Pallier et al. (1997).          |
+| 17     | Miércoles | 03/23 | Presentación de investigador invitado (3) TBA         | [Blog][1] - Grosjean                 |
 
-
-Las lecturas están disponibles [aquí](https://sakai.rutgers.edu/portal/site/87159f73-adf3-4968-bcc3-329c4e157f1c/tool/b7c4bde1-4e30-4cce-bb78-eb1f5b10f1dd?panel=Main)
-
+Las lecturas están disponibles [aquí](https://rutgers.instructure.com/courses/162767/modules)
 
 [1]: https://www.swissinfo.ch/eng/opinion_maybe-you-are-bilingual-after-all-/43361136
 

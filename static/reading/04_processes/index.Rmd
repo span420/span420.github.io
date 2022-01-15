@@ -5,17 +5,16 @@ output: html_document
 
 ### Módulo 4 - Procesos
 
-|     | Día | Fecha |                             Tema                            |        Lectura        |
-| :-- | :-- | :---: | :---------------------------------------------------------- | :-------------------- |
-| 19  | th  | 11/09 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2 |                       |
-| 20  | mn  | 11/13 | Gramática universal                                         |                       |
-| 21  | th  | 11/16 | El lenguaje y el pensamiento. Relativismo lingüístico.      | LSA [ART][1]          |
-| 22  | mn  | 11/20 | El bilingüismo y el cerebro. Presentación 4a.               | NYT [ART][2]          |
-| 23  | th  | 11/23 | Día de acción de gracias - No hay clase                     |                       |
-| 24  | mn  | 11/27 | El bilingüismo y el cerebro (cont.). Presentación 4b.       | Mokadam et al. (2017) |
-| 25  | th  | 11/30 | Presentación de investigador invitado TBA                   |                       |
+| Sesión | Día       | Fecha |                             Tema                            |        Lectura              |
+| :----- | :-------- | :---: | :---------------------------------------------------------- | :-------------------------- |
+| 18     | Lunes     | 03/28 | Metodología 3: Experimentos psicolingüísticos con PsychoPy2 |                             |
+| 19     | Miércoles | 03/30 | Gramática universal                                         |                             |
+| 20     | Lunes     | 04/04 | El lenguaje y el pensamiento. Relativismo lingüístico.      | LSA [ART][1]                |
+| 21     | Miércoles | 04/06 | El bilingüismo y el cerebro. Presentación 4a.               | NYT [ART][2]                |
+| 22     | Lunes     | 04/11 | El bilingüismo y el cerebro (cont.). Presentación 4b.       | Art: Mokadam et al. (2017). |
+| 23     | Miércoles | 04/13 | Presentación de investigador invitado (4) TBA               |                             |
 
-Las lecturas están disponibles [aquí](https://sakai.rutgers.edu/portal/site/87159f73-adf3-4968-bcc3-329c4e157f1c/tool/b7c4bde1-4e30-4cce-bb78-eb1f5b10f1dd?panel=Main)
+Las lecturas están disponibles [aquí](https://rutgers.instructure.com/courses/162767/modules)
 
 [1]: https://www.linguisticsociety.org/resource/language-and-thought
 [2]: http://www.nytimes.com/2012/03/18/opinion/sunday/the-benefits-of-bilingualism.html
