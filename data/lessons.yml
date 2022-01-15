@@ -4,21 +4,21 @@ lessons:
     #slides: "01_pedagogy/index.html"
   
   - title: "Lingüística, lingüística aplicada y la ASL."
-    date: "Thu, 09/07"
+    date: "Wed, 01/19"
   
   - title: "El campo de investigación de la ASL."
-    date: "Mon, 09/11"
+    date: "Mon, 01/24"
   
   - title: "El campo de investigación de la ASL (cont.). Métodos de enseñanza. Presentación 1a."
-    date: "Thu, 09/14"
+    date: "Wed, 01/26"
     #slides: "/presentations/1a_pedagogy.pptx"
   
   - title: "El campo de investigación de la ASL (cont.). Español en EE.UU. Presentación 1b."
-    date: "Mon, 09/18"
+    date: "Mon, 01/31"
     #slides: "/presentations/1b_pedagogy.pdf"
   
   - title: "Lenguas heredadas en EE.UU. Presentación de Dra. Sara Beaudrie."
-    date: "Thu, 09/21"
+    date: "Wed, 02/02"
     #assignment: "01_pedagogy/index.html"
   
   - title: "Part 2: Use"
@@ -26,24 +26,24 @@ lessons:
     #slides: "02_use/index.html"
   
   - title: "Metodología: R, RMarkdown y la investigación reproducible"
-    date: "Mon, 09/25"
+    date: "Mon, 02/07"
   
   - title: "Lengua y sociedad."
-    date: "Thu, 09/28"
+    date: "Wed, 02/09"
   
   - title: "Lengua y sociedad (cont.)."
-    date: "Mon, 10/02"
+    date: "Mon, 02/14"
   
   - title: "Los pronombres. Presentación 2a."
-    date: "Thu, 10/05"
+    date: "Wed, 02/16"
     #slides: "/presentations/2a_use.pdf"
   
   - title: "Expresión de pronombre sujeto en el español de EE.UU. Presentación 2b."
-    date: "Mon, 10/09"
+    date: "Mon, 02/21"
     #slides: "presentations/2b_use.pdf"
   
   - title: "Sociolingüística: contacto y variación. Presentación del Dr. Ryan Bessett."
-    date: "Thu, 10/12"
+    date: "Wed, 02/23"
     #slides: "presentations/2c_use.pdf"
     #assignment: "02_use/index.html"
   
@@ -52,27 +52,24 @@ lessons:
     #slides: "03_analysis/index.html"
   
   - title: "Metodología: Praat"
-    date: "Mon, 10/16"
+    date: "Mon, 02/28"
   
   - title: "Adquisición secuencial"
-    date: "Thu, 10/19"
+    date: "Wed, 03/02"
   
   - title: "Adquisición secuencial (cont.)."
-    date: "Mon, 10/23"
-  
-  - title: "HLS - No hay clase"
-    date: "Thu, 10/26"
+    date: "Mon, 03/07"
   
   - title: "Adquisición secuencial - producción. Presentación 3a."
-    date: "Mon, 10/30"
+    date: "Wed, 03/09"
     #slides: "presentations/3a_analysis.pdf"
   
   - title: "Adquisición secuencial - percepción. Presentación 3b."
-    date: "Thu, 11/02"
+    date: "Mon, 03/21"
     #slides: "presentations/3b_analysis.pdf"
   
-  - title: "Presentación de Dr. Miquel Simonet."
-    date: "Mon, 11/06"
+  - title: "Presentación de investigador invitado (3) TBA."
+    date: "Wed, 03/23"
     #assignment: "03_analysis/index.html"
   
   - title: "Part 4: Processes"
@@ -80,34 +77,37 @@ lessons:
     #slides: "04_processes/index.html"
   
   - title: "Metodología: Experimentos psicolingüísticos con PsychoPy2"
-    date: "Thu, 11/09"
+    date: "Mon, 03/28"
   
   - title: "Gramática Universal."
-    date: "Mon, 11/13"
+    date: "Wed, 03/30"
   
   - title: "El lenguaje y el pensamiento. Relativismo lingüístico."
-    date: "Thu, 11/16"
+    date: "Mon, 04/04"
   
   - title: "El bilingüismo y el cerebro. Presentación 4a."
-    date: "Mon, 11/20"
+    date: "Wed, 04/06"
     #slides: "presentations/4a_processes.pdf"
   
-  - title: "Día de acción de gracias - No hay clase"
-    date: "Thu, 11/23"
-  
   - title: "El bilingüismo y el cerebro. Presentación 4b."
-    date: "Mon, 11/27"
+    date: "Mon, 04/11"
     #slides: "presentations/4b_processes.pdf"
   
-  - title: "Presentación de Dra. Nuria Sagarra."
-    date: "Thu, 11/30"
+  - title: "Presentación de investigador invitado (3) TBA."
+    date: "Wed, 04/13"
     #assignment: "04_processes/index.html"
   
   - title: "Asuntos residuales"
-    date: "Mon, 12/04"
+    date: "Mon, 04/18"
   
   - title: "Proyectos finales"
-    date: "Thu, 12/07"
+    date: "Wed, 04/20"
+  
+  - title: "Proyectos finales"
+    date: "Mon, 04/25"
+  
+  - title: "Proyectos finales"
+    date: "Wed, 04/27"
   
   - title: "Proyectos finales, último día de clase"
-    date: "Mon, 12/11"
+    date: "Wed, 05/02"
