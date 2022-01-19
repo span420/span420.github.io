@@ -30,6 +30,4 @@ de la clase. ¿Cómo difieren de los métodos de un maestro de lengua heredada?
 - ¿Por qué son importantes las clases de lengua heredada? ¿Qué relación tienen 
 con el español en EE.UU. y el futuro del español en EE.UU.?
 
-**OJO**: cualquier duda acerca del ensayo debe consultarse en 
-[slack](https://ru-span420.slack.com/messages/C6X2J7RT6/) en el canal de 
-pedagogía.
+**OJO**: cualquier duda acerca del ensayo debe consultarse en slack

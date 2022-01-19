@@ -11,6 +11,6 @@ output: html_document
 | 02     | Lunes     | 01/24 | El campo de investigación de la ASL.                   | LA: cap. 2, p. 25-38.                                        |
 | 03     | Miércoles | 01/26 | El campo de investigación de la ASL (cont.). Pres. 1a. | LA: cap. 2, p. 38-41. cap. 1, p. 3-19.                       |
 | 04     | Lunes     | 01/31 | El campo de investigación de la ASL (cont.). Pres. 1b. | ART: Potowski y Carreira (2010)                              |
-| 05     | Miércoles | 02/02 | Presentación de investigador invitado (1) TBA          | LA: cap. 2, p. 42-47, cap. 8, p. 198-202. ART: Valdés (2001) |
+| 05     | Miércoles | 02/02 | Presentación de investigador invitado (1) TBA          | LA: cap. 2, p. 42-47, cap. 8, p. 198-202. ART: Collentine y Freed (2004) |
 
 Las lecturas están disponibles [aquí](https://rutgers.instructure.com/courses/162767/modules)
