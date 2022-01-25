@@ -33,10 +33,12 @@ Instructor        | [Joseph Casillas](http://www.jvcasillas.com/) | <a href="mai
 ## Presentations
 
 {.table .table-condensed .table-striped .text-left}
- <span></span>     | <span></span> | <span></span>
------------|-----------------------|--------------------------------------------------
-TBD | 1a:           |          |
-
-
-
-
+ <span></span> | <span></span> | <span></span>
+---------------|--------------------------------|-------------------
+01/31          | 1b: Potowski y Carreira (2010) | Alyssa y Nathalia |
+02/16          | 2a: Cap. 3 - Los pronombres    | Salma y Jo        |
+02/21          | 2b: Flores-Ferrán (2004)       | Marisa, Amelia y Alyssa |
+03/09          | 3a: Knightly et al. (2003)     | Salma, Clara y Nathalia |
+03/21          | 3b: Pallier et al. (1997)      | Samantha y Jo           |
+04/06          | 4a: Why bilinguals are smarter | Samantha, Amelia, Esther |
+04/11          | 4b: Mokadam et al. (2017)      | Clara, Marisa, Esther    |

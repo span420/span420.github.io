@@ -17,7 +17,7 @@ output: html_document
 Las lecturas están disponibles [aquí](https://rutgers.instructure.com/courses/162767/modules)
 
 [1]: https://www.linguisticsociety.org/resource/language-and-thought
-[2]: http://www.nytimes.com/2012/03/18/opinion/sunday/the-benefits-of-bilingualism.html
+[2]: https://www.nytimes.com/2012/03/18/opinion/sunday/the-benefits-of-bilingualism.html
 
 <!-- https://youtu.be/evQsOFQju08 -->
 <!-- https://vimeo.com/120808489 -->
