@@ -1,7 +1,7 @@
 lessons:
   - title: "Part 1: Pedagogy"
     reading: "01_pedagogy/index.html"
-    #slides: "01_pedagogy/index.html"
+    slides: "01_pedagogy/index.html"
   
   - title: "Lingüística, lingüística aplicada y la ASL."
     date: "Wed, 01/19"
@@ -19,7 +19,7 @@ lessons:
   
   - title: "Presentación de investigador invitado (1) TBA."
     date: "Wed, 02/02"
-    #assignment: "01_pedagogy/index.html"
+    assignment: "01_pedagogy/index.html"
   
   - title: "Part 2: Use"
     reading: "02_use/index.html"

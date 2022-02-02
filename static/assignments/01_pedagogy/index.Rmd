@@ -6,8 +6,8 @@ output:
     theme: lumen
 ---
 
-- Fecha de entrega: jueves 28 de septiembre antes de las 11:30 pm
-- Método de entrega: mediante dropbox (sakai)
+- Fecha de entrega: miércoles 9 de febrero antes de las 11:30 pm
+- Método de entrega: mediante canvas
 - Formateo:  
     - archivo .docx
     - márgenes de 1 pulgada
@@ -17,17 +17,20 @@ output:
 
 En un ensayo de 2-3 páginas... 
 
-- Reflexiona sobre tu experiencia con tu L2. Da información específica acerca 
-de tu perfil lingüístico (i.e. ¿cómo/cuándo/por qué aprendiste tu L2? ¿qué tipo 
-de aprendiz eres?)
-- Compara tu experiencia lingüística con la de un hablante de herencia^[Si te 
-consideras hablante de herencia, compara tu experiencia con la de un aprendiz 
-de L2 (i.e. un aprendiz tardío).]. 
-¿En qué aspectos son diferentes? ¿Qué tienen en común? Sé específico.
-- Considera y habla detalladamente de los métodos de enseñanza que usaron tus 
-maestros. ¿Son los mismos que hemos visto en las lecturas y las presentaciones 
-de la clase. ¿Cómo difieren de los métodos de un maestro de lengua heredada?
-- ¿Por qué son importantes las clases de lengua heredada? ¿Qué relación tienen 
-con el español en EE.UU. y el futuro del español en EE.UU.?
+- Reflexiona sobre tu experiencia con tu L2. 
+Da información específica acerca de tu perfil lingüístico (i.e. 
+¿cómo/cuándo/por qué aprendiste tu L2? 
+¿qué tipo de aprendiz eres?)
+- Compara tu experiencia lingüística con la de un hablante de herencia (una persona que tiene una lengua de familia diferente a la lengua mayoritaria de la comunidad)^[Si te 
+consideras hablante de herencia, compara tu experiencia con la de un aprendiz de L2 (i.e. un aprendiz tardío).]. 
+¿En qué aspectos son diferentes? 
+¿Qué tienen en común? Sé específico. 
+¿Qué efecto ha tenido tu(s) contexto(s) de aprendizaje en cuanto cómo hablas?
+- Considera y habla detalladamente de los métodos de enseñanza que usaron tus maestros. 
+¿Son los mismos que hemos visto en las lecturas y las presentaciones de la clase. 
+¿Cuál es el mejor método para ti? 
+¿Por qué?
+- ¿Qué opinas del programa de lenguas de [Middlebury College](https://www.middlebury.edu/language-schools/)? 
+¿Cuáles son las ventajas y desventajas de aprender una lengua en este contexto?
 
 **OJO**: cualquier duda acerca del ensayo debe consultarse en slack
