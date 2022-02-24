@@ -45,7 +45,7 @@ lessons:
   - title: "Presentación de investigador invitado (2) TBA."
     date: "Wed, 02/23"
     #slides: "presentations/2c_use.pdf"
-    #assignment: "02_use/index.html"
+    assignments: "02_use/index.html"
   
   - title: "Part 3: Analysis"
     reading: "03_analysis/index.html"
