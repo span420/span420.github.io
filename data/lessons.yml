@@ -44,12 +44,12 @@ lessons:
   
   - title: "Presentación de investigador invitado (2) TBA."
     date: "Wed, 02/23"
-    #slides: "presentations/2c_use.pdf"
+    slides: "presentations/2c_use.pdf"
     assignments: "02_use/index.html"
   
   - title: "Part 3: Analysis"
     reading: "03_analysis/index.html"
-    #slides: "03_analysis/index.html"
+    slides: "03_analysis/index.html"
   
   - title: "Metodología: Praat"
     date: "Mon, 02/28"
@@ -62,8 +62,8 @@ lessons:
   
   - title: "Adquisición secuencial - producción. Presentación 3a."
     date: "Wed, 03/09"
-    #slides: "presentations/3a_analysis.pdf"
-  
+    slides: "presentations/3a_use_2.pdf"
+
   - title: "Adquisición secuencial - percepción. Presentación 3b."
     date: "Mon, 03/21"
     #slides: "presentations/3b_analysis.pdf"
