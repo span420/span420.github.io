@@ -62,11 +62,11 @@ lessons:
   
   - title: "Adquisición secuencial - producción. Presentación 3a."
     date: "Wed, 03/09"
-    slides: "presentations/3a_use_2.pdf"
+    slides: "presentations/3a_analysis_2.pdf"
 
   - title: "Adquisición secuencial - percepción. Presentación 3b."
     date: "Mon, 03/21"
-    #slides: "presentations/3b_analysis.pdf"
+    slides: "presentations/3b_analysis_2.pdf"
   
   - title: "Presentación de investigador invitado (3) TBA."
     date: "Wed, 03/23"
