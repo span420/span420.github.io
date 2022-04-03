@@ -50,7 +50,7 @@ lessons:
   - title: "Part 3: Analysis"
     reading: "03_analysis/index.html"
     slides: "03_analysis/index.html"
-    assignment: "03_analysis/index.html"
+    assignments: "03_analysis/index.html"
 
   - title: "Metodología: Praat"
     date: "Mon, 02/28"
