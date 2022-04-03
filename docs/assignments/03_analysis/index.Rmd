@@ -4,25 +4,22 @@ subtitle: "Análisis"
 output: html_document
 ---
 
-- Fecha de entrega: jueves 16 de noviembre antes de las 11:30 pm
-- Método de entrega: mediante dropbox (sakai)
+- Fecha de entrega: lunes 11 de abril antes de las 11:30 pm
+- Método de entrega: mediante canvas
 - Formato:  
-    - archivo .Rmd
+    - archivo docx o .Rmd
     - nombre del archivo: apellido_nombre_ensayo2.Rmd  
     (ej. casillas_joseph_ensayo2.Rmd)
 
-Escribe un ensayo de 2-3 páginas... 
+Escribe un ensayo de 2 páginas... 
 
 - Parte I: Resume el fenómeno de la percepción categórica. Explica 
-detalladamente por qué es relevante para la adquisición de una L2. Utiliza 
-ejemplos vistos en clase (inglés, español, catalán, etc.) para apoyar tus ideas.
-- Parte II: Resume el Speech Learning Model (SLM) de Flege (1995). Después, escoge 
-un contraste--ya sea vocálico o consonántico--que es difícil para ti en tu L2 (or 
-L3). Explica tus dificultades en términos del SLM.
+detalladamente por qué es relevante para la adquisición de una L2. 
+Utiliza ejemplos vistos en clase (inglés, español, catalán, etc.) para apoyar tus ideas.
+- Parte II: Reflexiona sobre el enlace entre la producción y la percepción en el desarrollo de una L2. 
+¿Cuál es más importante? 
+¿Cuál ocurre primero? 
+¿Qué tipo de investigación se hace sobre el tema? 
+Considera tu propia experiencia o la de algún amig@/familiar tuy@. 
 
-**PISTA**: [Aquí](http://www.jvcasillas.com/420_01_f2017/docs/assignment/03_use/template.zip) 
-hay una plantilla en .Rmd que puedes usar para escribir tu ensayo.
-
-**OJO**: Cualquier duda acerca del ensayo debe consultarse en 
-[slack](https://ru-span420.slack.com/messages/C6WB3N0E4/) en el canal de 
-análisis. 
+**PISTA**: [Aquí](https://www.span420.jvcasillas.com/assignments/03_analysis/template.zip) hay una plantilla en .Rmd que puedes usar para escribir tu ensayo.

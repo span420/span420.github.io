@@ -70,7 +70,7 @@ lessons:
   
   - title: "Presentación de investigador invitado (3) TBA."
     date: "Wed, 03/23"
-    #assignment: "03_analysis/index.html"
+    assignment: "03_analysis/index.html"
   
   - title: "Part 4: Processes"
     reading: "04_processes/index.html"
