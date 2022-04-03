@@ -2,7 +2,8 @@ lessons:
   - title: "Part 1: Pedagogy"
     reading: "01_pedagogy/index.html"
     slides: "01_pedagogy/index.html"
-  
+    assignments: "01_pedagogy/index.html"
+
   - title: "Lingüística, lingüística aplicada y la ASL."
     date: "Wed, 01/19"
   
@@ -11,7 +12,7 @@ lessons:
   
   - title: "El campo de investigación de la ASL (cont.). Métodos de enseñanza. Presentación 1a."
     date: "Wed, 01/26"
-    #slides: "/presentations/1a_pedagogy.pptx"
+    #slides: "/presentations/1a_pedagogy.pptx" (no presentation this year)
   
   - title: "El campo de investigación de la ASL (cont.). Español en EE.UU. Presentación 1b."
     date: "Mon, 01/31"
@@ -19,12 +20,12 @@ lessons:
   
   - title: "Presentación de investigador invitado (1) TBA."
     date: "Wed, 02/02"
-    assignments: "01_pedagogy/index.html"
-  
+
   - title: "Part 2: Use"
     reading: "02_use/index.html"
     slides: "02_use/index.html"
-  
+    assignments: "02_use/index.html"
+
   - title: "Metodología: R, RMarkdown y la investigación reproducible"
     date: "Mon, 02/07"
   
@@ -45,12 +46,12 @@ lessons:
   - title: "Presentación de investigador invitado (2) TBA."
     date: "Wed, 02/23"
     slides: "presentations/2c_use.pdf"
-    assignments: "02_use/index.html"
-  
+
   - title: "Part 3: Analysis"
     reading: "03_analysis/index.html"
     slides: "03_analysis/index.html"
-  
+    assignment: "03_analysis/index.html"
+
   - title: "Metodología: Praat"
     date: "Mon, 02/28"
   
@@ -70,12 +71,12 @@ lessons:
   
   - title: "Presentación de investigador invitado (3) TBA."
     date: "Wed, 03/23"
-    assignment: "03_analysis/index.html"
-  
+
   - title: "Part 4: Processes"
     reading: "04_processes/index.html"
-    #slides: "04_processes/index.html"
-  
+    slides: "04_processes/index.html"
+    #assignment: "04_processes/index.html"
+
   - title: "Metodología: Experimentos psicolingüísticos con PsychoPy2"
     date: "Mon, 03/28"
   
@@ -95,8 +96,7 @@ lessons:
   
   - title: "Presentación de Dra. Lozano Argüelles."
     date: "Wed, 04/13"
-    #assignment: "04_processes/index.html"
-  
+
   - title: "Asuntos residuales"
     date: "Mon, 04/18"
   
