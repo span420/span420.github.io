@@ -4,38 +4,32 @@ subtitle: "Procesos"
 output: html_document
 ---
 
-- Fecha de entrega: jueves 7 de diciembre antes de las 11:59 pm
-- Método de entrega: mediante dropbox (sakai)
+- Fecha de entrega: miércoles 20 de abril antes de las 11:59 pm
+- Método de entrega: mediante canvas
 - Formato:  
-    - archivo .Rmd
+    - archivo .Rmd o .docx
     - nombre del archivo: apellido_nombre_ensayo4.Rmd  
     (ej. casillas_joseph_ensayo4.Rmd)
 
-Escribe un ensayo de 2 páginas (máximo)...  
-
+Escribe un ensayo de 2 páginas (máximo). 
 Escoge <u>una</u> de las siguientes opciones. 
 
-1. Considera uno de los métodos 'en línea' que presentó la profesora Sagarra 
-(me refiero específicamente al paradigma experimental, hubo dos ejemplos en 
-la presentación). Describe las ventajas y desventajas del método con respecto 
-al estudio de la adquisición de una L2. ¿Por qué es especialmente bueno para 
-investigar la relación entre la anticipación y el acento léxico y/o el 
-procesamiento de la morfología española?
+1. Considera uno de los métodos 'en línea' que presentó la profesora Sagarra (me refiero específicamente al paradigma experimental, hubo dos ejemplos en la presentación). 
+Describe las ventajas y desventajas del método con respecto al estudio de la adquisición de una L2. 
+¿Por qué es especialmente bueno para investigar la relación entre la anticipación y el acento léxico y/o el procesamiento de la morfología española?
 
-2. Actualmente los medios de comunicación promueven la idea de que el bilingüismo 
-aporta ciertas ventajas cognitivas. ¿Cuáles son estas ventajas? Describe con detalle 
-algunas de las investigaciones que apoyan esta noción. Hicimos varios mini experimentos 
-en clase relacionados con el tema. ¿También apoyan la idea de una ventaja cognitiva 
-relacionada con el bilingüismo? ¿Cómo? Por otra parte, hay estudios que sugieren que 
-las susodichas ventajas se han exagerado en los medios de comunicación. ¿En qué aspectos específicamente? Da detalle. Puntos extras si puedes relacionar tu respuesta con 
-los hallazgos de la profesora Sagarra.
+2. Actualmente los medios de comunicación promueven la idea de que el bilingüismo aporta ciertas ventajas cognitivas. 
+¿Cuáles son estas ventajas? 
+Describe con detalle algunas de las investigaciones que apoyan esta noción. 
+Hicimos varios mini experimentos en clase relacionados con el tema. 
+¿También apoyan la idea de una ventaja cognitiva relacionada con el bilingüismo? 
+¿Cómo? 
+Por otra parte, hay estudios que sugieren que las susodichas ventajas se han exagerado en los medios de comunicación. 
+¿En qué aspectos específicamente? 
+Da detalle. 
+Puntos extras si puedes relacionar tu respuesta con los hallazgos de la profesora Lozano.
 
 **PISTAS**: 
 
-1. [Aquí](http://www.jvcasillas.com/420_01_f2017/docs/assignment//02_use/template.zip) 
+[Aquí](https://www.span420.jvcasillas.com/02_use/template.zip) 
 hay una plantilla en .Rmd que puedes usar para escribir tu ensayo.
-2. Puede que te sea de ayuda [esto](http://www.jvcasillas.com/420_01_f2017/docs/slides/presentations/sagarra1.pdf) y [esto](http://www.jvcasillas.com/420_01_f2017/docs/slides/presentations/sagarra2.pdf)
-
-**OJO**: Cualquier duda acerca del ensayo debe consultarse en 
-[slack](https://ru-span420.slack.com/messages/C6X2K7QHJ/) en el canal de 
-procesos. 
