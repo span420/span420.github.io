@@ -75,7 +75,7 @@ lessons:
   - title: "Part 4: Processes"
     reading: "04_processes/index.html"
     slides: "04_processes/index.html"
-    #assignment: "04_processes/index.html"
+    assignment: "04_processes/index.html"
 
   - title: "Metodología: Experimentos psicolingüísticos con PsychoPy2"
     date: "Mon, 03/28"
